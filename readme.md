@@ -20,8 +20,12 @@
 
 
 ## Footnotes
+
+### Citation
+
+### Document details
+Template used: [Template.Dataset](https://github.com/KentVejrupMadsen/template.dataset)
+
 Created at:
 
 Last updated at:
-
-### Citation
