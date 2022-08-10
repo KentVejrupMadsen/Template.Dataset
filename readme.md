@@ -6,8 +6,11 @@
 
 
 ## Content
-1. [Dataset License](License.md)
-2. [Source Code License](sourcecode_license.md)
+* [Changes](changelog.md)
+
+* Licenses
+    1. [Dataset License](License.md)
+    2. [Source Code License](sourcecode_license.md)
 
 
 ## Cover
