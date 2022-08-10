@@ -7,6 +7,8 @@
 
 ## Content
 * [Changes](changelog.md)
+* [Code of Conduct](code_of_conduct.md)
+* [Contributing](contributing.md)
 
 * Licenses
     1. [Dataset License](License.md)
