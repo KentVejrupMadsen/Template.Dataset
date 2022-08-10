@@ -29,7 +29,8 @@
 
 
 ### Document details
-Author: Kent vejrup Madsen
+Author: [Kent vejrup Madsen](https://github.com/KentVejrupMadsen)
+
 Contact: 
 * [Email](mailTo:Kent.vejrup.madsen@designermadsen.dk)
 * [Issues](.)
