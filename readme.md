@@ -30,8 +30,9 @@
 
 ### Document details
 Author: Kent vejrup Madsen
-Contact: [Email](mailTo:Kent.vejrup.madsen@designermadsen.dk)
-[Issues](.)
+Contact: 
+* [Email](mailTo:Kent.vejrup.madsen@designermadsen.dk)
+* [Issues](.)
 
 Made using: [Template.Dataset](https://github.com/KentVejrupMadsen/template.dataset)
 
