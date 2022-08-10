@@ -32,4 +32,4 @@ Created at:
 
 Last updated at:
 
-Copyright Kent vejrup Madsen 2022
+Copyright: Kent vejrup Madsen 2022
