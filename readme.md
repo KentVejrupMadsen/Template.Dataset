@@ -20,12 +20,16 @@
 
 
 ## Footnotes
-
 ### Citation
+
 
 ### Document details
 Template used: [Template.Dataset](https://github.com/KentVejrupMadsen/template.dataset)
 
+Author: Kent vejrup Madsen
+
 Created at:
 
 Last updated at:
+
+Copyright Kent vejrup Madsen 2022
