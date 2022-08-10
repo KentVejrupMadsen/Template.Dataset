@@ -6,17 +6,22 @@
 
 
 ## Content
-1. [Dataset License](License.md)
-2. [Source Code License](sourcecode_license.md)
+* [Changes](changelog.md)
+* [Code of Conduct](code_of_conduct.md)
+* [Contributing](contributing.md)
+
+* Licenses
+    1. [Dataset License](License.md)
+    2. [Source Code License](sourcecode_license.md)
 
 
 ## Cover
 
 
 ## Similar datasets
-| Name | Version | Kaggle | Last updated at |
-|------|---------|--------|-----------------|
-| a    | b       | c      |                 |
+| Repository | Version | Kaggle | Last updated at |
+|------------|---------|--------|-----------------|
+| a          | b       | c      |                 |
 
 
 ## Footnotes
@@ -24,12 +29,18 @@
 
 
 ### Document details
-Template used: [Template.Dataset](https://github.com/KentVejrupMadsen/template.dataset)
-
 Author: Kent vejrup Madsen
+Contact: [Email](mailTo:Kent.vejrup.madsen@designermadsen.dk)
+[Issues](.)
+
+Made using: [Template.Dataset](https://github.com/KentVejrupMadsen/template.dataset)
+
+Copyright: Kent vejrup Madsen [Year]
+
+Licenses:
+* [MIT License](.),
+* [Attribution 4.0 International](link)
 
 Created at:
 
 Last updated at:
-
-Copyright: Kent vejrup Madsen 2022

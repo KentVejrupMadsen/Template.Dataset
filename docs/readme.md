@@ -6,8 +6,13 @@
 
 
 ## Content
-1. [Dataset License](license.md)
-2. [Source Code License](sourcecode_license.md)
+* [Changes](changelog.md)
+* [Code of Conduct](code_of_conduct.md)
+* [Contributing](contributing.md)
+
+* Licenses
+    1. [Dataset License](License.md)
+    2. [Source Code License](sourcecode_license.md)
 
 
 ## Cover
@@ -20,8 +25,23 @@
 
 
 ## Footnotes
+### Citation
+
+
+### Document details
+Author: Kent vejrup Madsen
+Contact: [Email](mailTo:Kent.vejrup.madsen@designermadsen.dk)
+[Issues](.)
+
+Made using: [Template.Dataset](https://github.com/KentVejrupMadsen/template.dataset)
+
+Copyright: Kent vejrup Madsen [Year]
+
+Licenses:
+* [MIT License](.),
+* [Attribution 4.0 International](link)
+
 Created at:
 
 Last updated at:
 
-### Citation
